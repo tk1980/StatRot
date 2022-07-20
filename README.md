@@ -1,2 +1,1 @@
-# StatRot
-Rotation Regularization Without Rotation
+# Rotation Regularization Without Rotation
